@@ -33,6 +33,7 @@ This repo collects my solutions for a QC task. It includes:
 - 🔌 a Postman CRUD collection for a dummy Employees API
 - 🗃️ SQL scripts for a simple `Users` table with example queries
 - 🤖 a Java UI test (Page Object + TestNG) that registers a new user on nopCommerce
+- <sub>AI-assisted: selected docs/tests were prepared and reviewed with AI tools to enhance quality and maximize benefit.</sub>
 
 ---
 
