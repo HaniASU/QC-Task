@@ -1,0 +1,29 @@
+{
+  "testRegister_regression1": {
+    "gender": "F",
+    "firstName": "Ali",
+    "lastName": "Ali",
+    "emailPrefix": "reg1",
+    "company": "AliCo",
+    "email": "Ali@gmail.com",
+    "password": "Ali@12345"
+  },
+  "testRegister_regression2": {
+    "gender": "M",
+    "firstName": "Sam",
+    "lastName": "Stone",
+    "emailPrefix": "reg2",
+    "company": "StoneLLC",
+    "email": "Sam@gmail.com",
+    "password": "Pass@12345"
+  },
+  "testRegister_smoke": {
+    "gender": "F",
+    "firstName": "Zara",
+    "lastName": "Lee",
+    "emailPrefix": "smoke",
+    "company": "QuickCo",
+    "email": "Zara@gmail.com",
+    "password": "Smoke@12345"
+  }
+}
