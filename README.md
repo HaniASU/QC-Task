@@ -45,7 +45,6 @@ This repo collects my solutions for a QC task. It includes:
 - Ambiguity findings with suggested clarifications/acceptance criteria
 - SQL schema + data + sample queries you can run in any SQL client
 - UI automation using Java, Maven, Selenium, and the Page Factory pattern
-- Employed AI sparingly, limited to non-sensitive few parts, to enhance quality
 ---
 
 ## 📁 Project Structure
