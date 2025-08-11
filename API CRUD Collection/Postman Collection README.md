@@ -1,6 +1,6 @@
-# Hani 21200 – Postman Collection
+# Postman Collection
 
-This project has a Postman Collection to test and try our APIs.
+This project has a Postman Collection  for this dummy REST API to test and try our APIs.
 
 ## What you need
 - Postman (Desktop or Web)
