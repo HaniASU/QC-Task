@@ -41,7 +41,7 @@ This repo collects my solutions for a QC task. It includes:
 
 - Clear, human-readable folder structure with small, focused artifacts
 - API collection with basic assertions and an environment file
-- Boundary and negative test cases for billing logic
+- Test cases for billing logic
 - Ambiguity findings with suggested clarifications/acceptance criteria
 - SQL schema + data + sample queries you can run in any SQL client
 - UI automation using Java, Maven, Selenium, and the Page Factory pattern
