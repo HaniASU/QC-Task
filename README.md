@@ -47,4 +47,28 @@ This repo collects my solutions for a QC task. It includes:
 - UI automation using Java, Maven, Selenium, and the Page Factory pattern
 ---
 
+## 📁 Project Structure
+
+```sh
+└── QC-Task/
+    ├── API CRUD Collection
+    │   ├── CRUD Environment.postman_environment.json
+    │   ├── Employees API CRUD.postman_collection.json
+    │   └── Postman Collection README.md
+    ├── Ambiguity Analysis Task
+    │   ├── Ambiguity Analysis.pdf
+    │   └── INFO README.md
+    ├── Automation Task
+    │   ├── .gitignore
+    │   ├── .idea
+    │   ├── Drivers
+    │   ├── TestSuite1.xml
+    │   ├── TestSuite2.xml
+    │   ├── pom.xml
+    │   └── src
+    ├── SQL Scripts
+    │   └── SQL scripts.sql
+    └── Test Cases
+        └── Cellular Telephone Company Testing Suite.xlsx
+
 
